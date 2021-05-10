@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wzmzmzm
 - 👀 I’m interested in artificial intelligence and microwave engineering
 - 🌱 I’m currently learning AI technique to deal with the design problems of microwave components
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI's application on microwave engineering.
 - 📫 My email is wuzeming5@sjtu.edu.cn. Welcome to contact with me.
 
 <!---
